@@ -16,10 +16,13 @@
     "react": "17.0.2",
     "react-dom": "^16.13.1",
     "react-native": "0.65.1",
+    "react-native-dimension": "^1.0.6",
     "react-native-gesture-handler": "^1.9.0",
     "react-native-reanimated": "2.3.0-beta.1",
     "react-native-screens": "3.7.2",
-    "react-native-web": "^0.15.5"
+    "react-native-svg": "^12.1.1",
+    "react-native-web": "^0.15.5",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22"
   },
   "devDependencies": {
     "@babel/core": "^7.14.5",
@@ -30,6 +33,7 @@
     "jest": "^26.1.0",
     "metro-react-native-babel-preset": "^0.66.0",
     "react-native-codegen": "^0.0.7",
+    "react-native-svg-transformer": "^0.14.3",
     "react-test-renderer": "17.0.2"
   },
   "jest": {
